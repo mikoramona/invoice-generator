@@ -9,8 +9,8 @@ items = [
 ]
 
 context = {
-    "name": "Bhavika",
-    "email": "bhavika@example.com",
+    "name": "Jane",
+    "email": "jane@example.com",
     "invoice_list": items,
     "total": sum(i["total"] for i in items),
 }
